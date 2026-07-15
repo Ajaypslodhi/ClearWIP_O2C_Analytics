@@ -1,0 +1,26 @@
+audit_id,contract_id,audit_date,audit_type,finding,resolution_status
+AUD0001,CT0002,2025-12-06,External,Unauthorized Adjustment,Escalated
+AUD0002,CT0008,2025-04-11,Internal,Late Contract Update,In Progress
+AUD0003,CT0020,2025-07-28,Internal,Missing Evidence,Escalated
+AUD0004,CT0021,2025-08-28,External,Late Contract Update,Resolved
+AUD0005,CT0024,2025-11-07,External,Late Contract Update,Resolved
+AUD0006,CT0027,2025-05-18,External,Unauthorized Adjustment,Escalated
+AUD0007,CT0029,2025-03-03,Internal,Unauthorized Adjustment,In Progress
+AUD0008,CT0032,2025-08-18,External,Late Contract Update,Escalated
+AUD0009,CT0034,2025-05-23,Internal,Missing Evidence,In Progress
+AUD0010,CT0036,2025-03-14,Internal,Unauthorized Adjustment,Resolved
+AUD0011,CT0039,2025-12-19,External,Late Contract Update,In Progress
+AUD0012,CT0041,2025-01-08,Internal,Unauthorized Adjustment,Escalated
+AUD0013,CT0043,2025-06-06,External,Duplicate Invoice,Resolved
+AUD0014,CT0044,2025-07-15,Internal,Duplicate Invoice,In Progress
+AUD0015,CT0052,2025-01-12,Internal,Duplicate Invoice,Resolved
+AUD0016,CT0058,2025-09-11,External,Duplicate Invoice,In Progress
+AUD0017,CT0064,2025-05-11,External,Duplicate Invoice,Resolved
+AUD0018,CT0073,2025-04-16,Internal,Revenue Recognition Exception,Escalated
+AUD0019,CT0076,2025-05-16,External,Revenue Recognition Exception,In Progress
+AUD0020,CT0079,2025-12-08,External,Unauthorized Adjustment,In Progress
+AUD0021,CT0086,2025-03-13,External,Revenue Recognition Exception,In Progress
+AUD0022,CT0091,2025-09-19,Internal,Duplicate Invoice,In Progress
+AUD0023,CT0093,2025-07-13,External,Missing Evidence,Escalated
+AUD0024,CT0095,2025-11-23,External,Late Contract Update,Resolved
+AUD0025,CT0100,2025-05-17,External,Revenue Recognition Exception,In Progress
